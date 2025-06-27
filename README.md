@@ -1,5 +1,4 @@
 # Hotel Reservation System
-# Hotel Reservation System
 
 A Java implementation of a simplified hotel reservation system that manages rooms, users, and bookings according to specific business rules.
 
